@@ -24,7 +24,7 @@ LoRa,no
 librtd,yes
 visual-wake-words,no
 claimMapping,no
-bioNic,no
+bioNic,yes
 dnaviz,yes
 infodemic,no
 speech_shift,no
